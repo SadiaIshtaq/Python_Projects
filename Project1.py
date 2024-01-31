@@ -1,2 +1,1 @@
-print("We just added a new feature.")
-print("Dropdown")
+print("We just added a new feature(dropdown).")
