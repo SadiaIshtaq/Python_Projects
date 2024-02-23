@@ -28,5 +28,5 @@ elif answer=="left":
         print("Please enter a valid option.")
 else:
     print("Please enter a valid option")
-print(f"It was a fun adventure to have with you {name}")
+print(f"It was a fun adventure to have with you {name}.")
 
